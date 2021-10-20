@@ -3,7 +3,7 @@ This article is about Web Application Revolution.
 
 Web Revolution
 
-Web application แบ่งออกเป็น 3 ยุคคือ
+Web Application แบ่งออกเป็น 3 ยุคคือ
 
 ยุคแรก 
 ในช่วง ค.ศ 1989-1990 การจะสร้างเว็บๆหนึ่งนั้น เราได้แบ่งเป็น 2 ส่วน -> 1.ไฟล์ HTML(hypertext mark up language)
