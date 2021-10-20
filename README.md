@@ -22,16 +22,16 @@ Web Revolution
 
 Web application consist of 3 eras
 
-First era
+First era,
 In 1989-1990 in order to build a website we seperate into 2 part -> The first part is HTML(hypertext mark up language) file 
 this part is use to display the webpage but unable to read the database somehow. The second part is Common Gateway Interface(CGI) the 
 role of CGI is to read database and display in form of HTML. In generally, CGI can be written in any computer language including C#, Perl, Python.
 However, the most popular language is Perl.
 
-Second era
+Second era,
 In 1994-1995, we build a website in one single files which consist of HTML and code that read database, the most popular is PHP.
 
-Third era
+Third era,
 In 2003, we no longer use file but apply the central code known as Dispatcher which control the operating system. when the request is come the 
 Dispatcher will find the function that suit the request best. However, if there is no valid function, it will continue searching in the folder.
 This era is called modern stack. the popular system that mostly used consist of Java Spring MVC, Ruby on Rails, PHP Laravel. 
